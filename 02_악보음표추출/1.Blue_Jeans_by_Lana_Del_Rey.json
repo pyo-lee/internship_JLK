@@ -1,0 +1,2886 @@
+{
+    "Fm": [
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            }
+        ],
+        [
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            }
+        ],
+        [
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            }
+        ],
+        [
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 1.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 2.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 3.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 48.0,
+                "name": "C",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ]
+    ],
+    "E-": [
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            }
+        ],
+        [
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Eighth",
+                "duration": 0.5
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.5,
+                "d_type": "Eighth",
+                "duration": 0.5
+            }
+        ],
+        [
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 3.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            }
+        ],
+        [
+            {
+                "pitch": 39.0,
+                "name": "E-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "name": "rest",
+                "position": 1.0,
+                "d_type": "Quarter",
+                "duration": 1.0
+            },
+            {
+                "name": "rest",
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 51.0,
+                "name": "E-",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 55.0,
+                "name": "G",
+                "octave": 3,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ]
+    ],
+    "B-": [
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 53.0,
+                "name": "F",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 50.0,
+                "name": "D",
+                "octave": 3,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "pitch": 46.0,
+                "name": "B-",
+                "octave": 2,
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ],
+        [
+            {
+                "name": "rest",
+                "position": 0.0,
+                "d_type": "Whole",
+                "duration": 4.0
+            }
+        ]
+    ],
+    "F": [
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "name": "rest",
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ],
+        [
+            {
+                "pitch": 41.0,
+                "name": "F",
+                "octave": 2,
+                "position": 0.0,
+                "d_type": "Half",
+                "duration": 2.0
+            },
+            {
+                "name": "rest",
+                "position": 2.0,
+                "d_type": "Half",
+                "duration": 2.0
+            }
+        ]
+    ]
+}
